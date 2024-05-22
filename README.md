@@ -1,11 +1,9 @@
 # Stock Portfolio Suggestion Engine
 
-**Final project for CMPE 285 - SJSU Spring 2024**
-
 ## Use Case:
 
 ### User Inputs:
-- Dollar amount to invest in USD (Minimum is $5000 USD)
+- Dollar amount to invest in USD (Minimum is USD 5000)
 - Pick one or two investment strategies:
   - Ethical Investing
   - Growth Investing
