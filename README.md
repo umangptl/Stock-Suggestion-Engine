@@ -1,6 +1,8 @@
 # Stock Portfolio Suggestion Engine
+This project is about a stock portfolio suggestion engine, The engine is assigned some stocks and ETFs mapped to a specific investment strategy, the User can enter an investment amount and type of investment strategy up to 2, and then the engine suggests the latest price analysis and investment strategies.
 
-## Use Case:
+**Contributer** [@umangptl](https://github.com/umangptl) [@gemj98](https://github.com/gemj98) [@tayadeabhilash](https://github.com/tayadeabhilash) [@mhvalvur](https://github.com/mhvalvur)
+
 
 ### User Inputs:
 - Dollar amount to invest in USD (Minimum is USD 5000)
